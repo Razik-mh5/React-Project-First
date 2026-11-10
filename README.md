@@ -1,2 +1,5 @@
 # React-Project-First
-React Learning
+
+My first React and GitHub practice project.
+
+Learning React.js and Git.
